@@ -1,0 +1,2 @@
+# salesLike
+for global
